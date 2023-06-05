@@ -1,14 +1,14 @@
 {
-    "id":"jackbox-ua-tusa",
-    "name":"TUSA:UA",
+    "id":"jackbox-ua-tusa-exclusive",
+    "name":"TUSA:UA-Exclusive",
     "description":"Обєднана команда ентузіастів з локалізації ігор Jackbox Games та ін.",
-    "image":"https://raw.githubusercontent.com/DragonFest7/JackboxUtility-Server-UA-TUSA/main/assets/news_images/logo.png",
+    "image":"https://raw.githubusercontent.com/MrRemind11/JackboxUtility-Server-ex/main/assets/news_images/logo.png",
 
     "urls":[
         {
             "versions":["1.0.0"],
-            "api":"https://raw.githubusercontent.com/DragonFest7/JackboxUtility-Server-UA-TUSA/main/api/v2",
-            "assets":"https://raw.githubusercontent.com/DragonFest7/JackboxUtility-Server-UA-TUSA/main/assets"
+            "api":"https://raw.githubusercontent.com/MrRemind11/JackboxUtility-Server-ex/main/api/v2",
+            "assets":"https://raw.githubusercontent.com/MrRemind11/JackboxUtility-Server-ex/main/assets"
         }
     ],
     "controller":"jackbox.fun",
